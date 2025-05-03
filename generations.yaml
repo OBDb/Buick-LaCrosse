@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 2005
+    end_year: 2009
+    description: "The original Buick LaCrosse (known as the Allure in Canada) replaced the Century and Regal in North America as Buick's mid-size sedan. Built on GM's W-body platform, it featured conservative styling aimed at traditional Buick customers. Engine options included a 3.8L V6 producing 200 HP and a more powerful 3.6L V6 with 240 HP. The interior emphasized comfort with spacious seating, wood trim, and a quiet cabin. Though not sport-oriented, a Super variant was added in 2008 with a 5.3L V8 producing 300 HP. This generation established the LaCrosse nameplate but maintained Buick's traditional approach to the mid-size luxury segment."
+
+  - name: "Second Generation"
+    start_year: 2010
+    end_year: 2016
+    description: "The second-generation LaCrosse represented a significant modernization for Buick, with more contemporary styling influenced by the Invicta concept car. Built on GM's Epsilon II platform, it featured a sleeker profile and more upscale appearance. Engine options included a 2.4L four-cylinder with eAssist mild-hybrid system and a 3.6L V6 producing up to 303 HP. Front-wheel drive was standard with all-wheel drive available on V6 models. The interior saw major improvements in design, material quality, and technology features. A refresh in 2014 updated the styling and technology offerings. This generation helped reposition Buick as a more modern premium brand and attracted younger buyers to the nameplate."
+
+  - name: "Third Generation"
+    start_year: 2017
+    end_year: 2019
+    description: "The final generation of the LaCrosse featured the most sophisticated design and technology in the model's history. Built on GM's P2XX platform, it was larger yet lighter than its predecessor thanks to increased use of high-strength steel and other weight-saving measures. The exterior adopted a more dynamic appearance with a lower roofline and longer wheelbase. Initially powered by a 3.6L V6 with 310 HP or a 2.5L four-cylinder with eAssist mild-hybrid technology, all models featured a new 9-speed automatic transmission. The interior offered premium materials, improved infotainment technology, and advanced driver assistance features. Despite its improvements, declining sedan sales led to the LaCrosse's discontinuation in North America after 2019 as Buick shifted focus to its crossover lineup, though the model continued in the Chinese market."
