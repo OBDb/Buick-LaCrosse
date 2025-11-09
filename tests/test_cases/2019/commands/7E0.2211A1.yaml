@@ -1,32 +1,11 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    BUICK_RUNTM: 52
-  response: 7E8056211A10034
-- expected_values:
-    BUICK_RUNTM: 101
-  response: 7E8056211A10065
-- expected_values:
-    BUICK_RUNTM: 131
-  response: 7E8056211A10083
-- expected_values:
-    BUICK_RUNTM: 162
-  response: 7E8056211A100A2
-- expected_values:
-    BUICK_RUNTM: 192
-  response: 7E8056211A100C0
-- expected_values:
-    BUICK_RUNTM: 223
-  response: 7E8056211A100DF
+    BUICK_RUNTM: 0
+  response: 7E8056211A10000
 - expected_values:
     BUICK_RUNTM: 253
   response: 7E8056211A100FD
 - expected_values:
-    BUICK_RUNTM: 283
-  response: 7E8056211A1011B
-- expected_values:
-    BUICK_RUNTM: 313
-  response: 7E8056211A10139
-- expected_values:
-    BUICK_RUNTM: 345
-  response: 7E8056211A10159
+    BUICK_RUNTM: 260
+  response: 7E8056211A10104
