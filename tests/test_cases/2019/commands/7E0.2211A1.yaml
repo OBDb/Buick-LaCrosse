@@ -4,8 +4,8 @@ test_cases:
     BUICK_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    BUICK_RUNTM: 253
-  response: 7E8056211A100FD
+    BUICK_RUNTM: 255
+  response: 7E8056211A100FF
 - expected_values:
     BUICK_RUNTM: 1077
   response: 7E8056211A10435
