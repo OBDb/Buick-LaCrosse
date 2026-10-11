@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
-    BUICK_VSS: 0
+    LACROSSE_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    BUICK_VSS: null
+    LACROSSE_VSS: 139
+  response: 7E80462000D8B
+- expected_values:
+    LACROSSE_VSS: null
   response: 7E80462000DFF
