@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221564
+test_cases:
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 143.42
+  response: '7E80462156447'
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 145.44
+  response: '7E80462156448'
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 151.5
+  response: 7E8046215644B
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 155.54
+  response: 7E8046215644D
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 157.56
+  response: 7E8046215644E
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 159.58
+  response: 7E8046215644F
+- expected_values:
+    LACROSSE_AC_HIGH_SIDE_P: 161.6
+  response: '7E80462156450'

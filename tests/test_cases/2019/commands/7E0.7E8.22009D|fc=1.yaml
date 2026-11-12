@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22009D|fc=1
+test_cases:
+- expected_values:
+    LACROSSE_TOTAL_FUEL_CONSUMPTION_RATE: 0.32
+  response: 7E80762009D00100010
+- expected_values:
+    LACROSSE_TOTAL_FUEL_CONSUMPTION_RATE: 0.34
+  response: 7E80762009D00110011

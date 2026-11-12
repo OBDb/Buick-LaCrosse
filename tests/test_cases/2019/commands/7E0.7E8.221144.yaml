@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221144
+test_cases:
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.64
+  response: '7E80462114452'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.66
+  response: '7E80462114453'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.7
+  response: '7E80462114455'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.74
+  response: '7E80462114457'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.76
+  response: '7E80462114458'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.78
+  response: '7E80462114459'
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.8
+  response: 7E8046211445A
+- expected_values:
+    LACROSSE_CABIN_AC_HIGH_SIDE_V: 1.82
+  response: 7E8046211445B
