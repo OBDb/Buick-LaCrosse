@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    LACROSSE_HEATED_OXYGEN_SENS: 10
+  response: 7E8046211450A
+- expected_values:
+    LACROSSE_HEATED_OXYGEN_SENS: 191
+  response: 7E804621145BF

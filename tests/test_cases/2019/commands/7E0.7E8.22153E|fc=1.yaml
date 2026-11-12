@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22153E|fc=1
+test_cases:
+- expected_values:
+    LACROSSE_EOT_2: 150
+  response: 7E80462153EBE
