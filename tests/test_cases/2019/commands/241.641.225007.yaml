@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     LACROSSE_TP_RR: 209
   response: 641056250070D10
+- expected_values:
+    LACROSSE_TP_RR: 211.75
+  response: 641056250070D3C
+- expected_values:
+    LACROSSE_TP_RR: 214.5
+  response: 641056250070D68
+- expected_values:
+    LACROSSE_TP_RR: 217.25
+  response: 641056250070D94
+- expected_values:
+    LACROSSE_TP_RR: 220
+  response: 641056250070DC0

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    LACROSSE_ATF_T_VAR_1: 51
-  response: 7E8046219405B
+    LACROSSE_ATF_T_VAR_1: 28
+  response: '7E80462194044'
 - expected_values:
     LACROSSE_ATF_T_VAR_1: 68
   response: 7E8046219406C
