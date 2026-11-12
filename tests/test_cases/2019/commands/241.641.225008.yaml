@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LACROSSE_TP_RL: 217.25
   response: 641056250080D94
+- expected_values:
+    LACROSSE_TP_RL: 225.5
+  response: '641056250080E18'
