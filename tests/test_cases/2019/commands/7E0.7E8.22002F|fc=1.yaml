@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22002F|fc=1
 test_cases:
 - expected_values:
-    LACROSSE_FLI: 34.5098
-  response: 7E80462002F58
+    LACROSSE_FLI: 6.66667
+  response: 7E80462002F11
+- expected_values:
+    LACROSSE_FLI: 37.64706
+  response: 7E80462002F60
