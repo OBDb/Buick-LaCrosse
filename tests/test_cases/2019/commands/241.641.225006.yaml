@@ -1,6 +1,9 @@
 command_id: 241.641.225006
 test_cases:
 - expected_values:
+    LACROSSE_TP_FR: 214.5
+  response: 641056250060D68
+- expected_values:
     LACROSSE_TP_FR: 217.25
   response: 641056250060D94
 - expected_values:
